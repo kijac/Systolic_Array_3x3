@@ -535,9 +535,7 @@ All arithmetic operations use gate-level primitives:
 ## 📚 References
 
 ### Academic Papers
-1. **H.T. Kung**, "Why Systolic Architectures?", *IEEE Computer*, 1982
-2. **Y.-H. Chen et al.**, "Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep CNNs", *ISSCC*, 2016
-3. **A. Parashar et al.**, "SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks", *ISCA*, 2017
+-
 
 ### Design Resources
 - Xilinx Artix-7 FPGAs Data Sheet (DS181)
